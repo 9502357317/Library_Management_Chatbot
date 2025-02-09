@@ -46,7 +46,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/library-management-chatbot.git
+git clone https://github.com/9502357317/Library_Management_Chatbot/edit/main/library_management-chatbot--main.git
 Navigate to the project directory:
 
 bash
